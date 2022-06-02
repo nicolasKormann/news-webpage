@@ -1,6 +1,6 @@
 # News Webpage
 
-<p>Este projeto é o resultado do desafio proposto pela no curso HTML e CSS do curso em vídeo, ministrado pelo professor Gustavo Guanabara.</p>
+<p>Este projeto é o resultado do desafio do curso de HTML e CSS do curso em vídeo, ministrado pelo professor Gustavo Guanabara.</p>
 
 <p>A webpage representa uma nóticas com layout totalmente responsivo e semântico.</p>
 
